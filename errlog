@@ -1,0 +1,17 @@
+nohup: ignoring input and appending output to 'nohup.out'
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: line 1: B1W-T-Removal-1_L4_172A72: command not found
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Skipping './..R1.clean.fastq.gz' which didn't exist, or couldn't be read
+Skipping './..R2.clean.fastq.gz' which didn't exist, or couldn't be read
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_5.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_5
+[INFO   ]         multiqc : MultiQC complete

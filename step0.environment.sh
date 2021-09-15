@@ -1,0 +1,10 @@
+#!/bin/bash
+#定义变量
+wk_dir=/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis
+code_dir=$wk_dir/code
+fastq_dir=$wk_dir/fastq
+index=$wk_dir/index/mmu.fa
+genome=$wk_dir/genome/Mus_musculus_Ensemble_94.fa
+gtf=$wk_dir/genome/Mus_musculus_Ensemble_94.gtf
+fastq1_suffix=.R1.fastq.gz
+fastq2_suffix=.R2.fastq.gz

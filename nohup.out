@@ -1,0 +1,795 @@
+mkdir: cannot create directory ‘fastqc_res’: File exists
+Started analysis of B1W-T-Removal-1_L4_172A72.R1.fastq.gz
+Started analysis of B1W-T-Removal-1_L4_172A72.R2.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_172A72.R1.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_172A72.R2.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_172A72.R2.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_172A72.R1.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_172A72.R2.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_172A72.R1.fastq.gz
+mkdir: cannot create directory ‘fastqc_res’: File exists
+./step1.fastqc.sh: line 10: syntax error near unexpected token `done'
+./step1.fastqc.sh: line 10: `done'
+mkdir: cannot create directory ‘fastqc_res’: File exists
+./step1.fastqc.sh: line 10: syntax error near unexpected token `done'
+./step1.fastqc.sh: line 10: `      done'
+mkdir: cannot create directory ‘fastqc_res’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B1W-T-Removal-1_L4_172A72.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B2W-T-Sham-1_L4_181A81.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B2W-T-Removal-3_L4_180A80.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B1W-T-Sham-2_L4_176A76.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B1W-T-Removal-2_L4_173A73.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B2W-T-Removal-2_L4_179A79.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B1W-T-Removal-3_L4_174A74.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B2W-T-Removal-1_L4_178A78.fastqc.errlog: No such file or directory
+./step1.fastqc.sh: line 8: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp//home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log/B2W-T-Sham-3_L4_183A83.fastqc.errlog: No such file or directory
+[WARNING]         multiqc : MultiQC Version v1.10.1 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/fastqc_res
+[WARNING]         multiqc : No analysis results found. Cleaning up..
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+Analysis complete for B2W-T-Sham-1_L4_181A81.R1.fastq.gz
+Analysis complete for B2W-T-Sham-1_L4_181A81.R2.fastq.gz
+Analysis complete for B1W-T-Removal-2_L4_173A73.R1.fastq.gz
+Analysis complete for B2W-T-Removal-3_L4_180A80.R1.fastq.gz
+Analysis complete for B2W-T-Removal-3_L4_180A80.R2.fastq.gz
+Analysis complete for B1W-T-Removal-2_L4_173A73.R2.fastq.gz
+Analysis complete for B1W-T-Removal-3_L4_174A74.R1.fastq.gz
+Analysis complete for B1W-T-Removal-3_L4_174A74.R2.fastq.gz
+Analysis complete for B2W-T-Removal-2_L4_179A79.R1.fastq.gz
+Analysis complete for B2W-T-Removal-2_L4_179A79.R2.fastq.gz
+Analysis complete for B2W-T-Removal-1_L4_178A78.R1.fastq.gz
+Analysis complete for B2W-T-Removal-1_L4_178A78.R2.fastq.gz
+Analysis complete for B1W-T-Sham-2_L4_176A76.R1.fastq.gz
+Analysis complete for B2W-T-Sham-3_L4_183A83.R1.fastq.gz
+Analysis complete for B2W-T-Sham-3_L4_183A83.R2.fastq.gz
+Analysis complete for B1W-T-Sham-2_L4_176A76.R2.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_172A72.R1.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_172A72.R2.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.10.1 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/fastqc_res
+[INFO   ]          fastqc : Found 18 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : multiqc_report.html
+[INFO   ]         multiqc : Data        : multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+Started analysis of B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Started analysis of B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_172A72.R2.clean.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_172A72.R1.clean.fastq.gz
+Started analysis of B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Started analysis of B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/hisat2.log’: File exists
+Approx 70% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Analysis complete for B1W-T-Removal-2_L4_173A73.R1.clean.fastq.gz
+Analysis complete for B1W-T-Removal-2_L4_173A73.R2.clean.fastq.gz
+Started analysis of B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Started analysis of B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Analysis complete for B1W-T-Removal-3_L4_174A74.R1.clean.fastq.gz
+Analysis complete for B1W-T-Removal-3_L4_174A74.R2.clean.fastq.gz
+Started analysis of B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Started analysis of B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Analysis complete for B1W-T-Sham-2_L4_176A76.R1.clean.fastq.gz
+Analysis complete for B1W-T-Sham-2_L4_176A76.R2.clean.fastq.gz
+Started analysis of B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Started analysis of B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Analysis complete for B2W-T-Removal-1_L4_178A78.R1.clean.fastq.gz
+Analysis complete for B2W-T-Removal-1_L4_178A78.R2.clean.fastq.gz
+Started analysis of B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Started analysis of B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Analysis complete for B2W-T-Removal-2_L4_179A79.R1.clean.fastq.gz
+Analysis complete for B2W-T-Removal-2_L4_179A79.R2.clean.fastq.gz
+Started analysis of B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Started analysis of B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 20% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 35% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Analysis complete for B2W-T-Removal-3_L4_180A80.R1.clean.fastq.gz
+Analysis complete for B2W-T-Removal-3_L4_180A80.R2.clean.fastq.gz
+Started analysis of B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Started analysis of B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Analysis complete for B2W-T-Sham-1_L4_181A81.R1.clean.fastq.gz
+Analysis complete for B2W-T-Sham-1_L4_181A81.R2.clean.fastq.gz
+Started analysis of B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Started analysis of B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+Analysis complete for B2W-T-Sham-3_L4_183A83.R1.clean.fastq.gz
+Analysis complete for B2W-T-Sham-3_L4_183A83.R2.clean.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.10.1 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 18 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/featurecount.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/featurecount.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+cat: ./sample.list: No such file or directory
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+cat: ./sample.list: No such file or directory
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Started analysis of B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Started analysis of B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/hisat2.log’: File exists
+Approx 95% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Approx 100% complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Analysis complete for B1W-T-Sham-1_L3_175A75.R1.clean.fastq.gz
+Approx 100% complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Analysis complete for B1W-T-Sham-1_L3_175A75.R2.clean.fastq.gz
+Started analysis of B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Started analysis of B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Analysis complete for B1W-T-Sham-3_L3_381X81.R1.clean.fastq.gz
+Analysis complete for B1W-T-Sham-3_L3_381X81.R2.clean.fastq.gz
+Started analysis of B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Started analysis of B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 5% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 10% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 15% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 20% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 25% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 30% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 35% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 40% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 45% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 50% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 55% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 60% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 65% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 70% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 75% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 80% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 85% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 90% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Approx 95% complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+Analysis complete for B2W-T-Sham-2_L3_394X94.R1.clean.fastq.gz
+Analysis complete for B2W-T-Sham-2_L3_394X94.R2.clean.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.10.1 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_1.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_1
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/featurecount.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/hisat2.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+Analysis complete for B1W-T-Removal-1_L4_142A42.R1.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_142A42.R2.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R1.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R2.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/fastqc_res
+[INFO   ]          fastqc : Found 22 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_rawdata_res_1.html
+[INFO   ]         multiqc : Data        : multiqc_rawdata_res_data_1
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: line 1: B1W-T-Sham-1_L4_143A43: command not found
+/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: line 2: B1W-T-Removal-1_L4_142A42: command not found
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Skipping './..R1.clean.fastq.gz' which didn't exist, or couldn't be read
+Skipping './..R2.clean.fastq.gz' which didn't exist, or couldn't be read
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_2.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_2
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/hisat2.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/featurecount.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: line 1: B1W-T-Sham-1_L4_143A43: command not found
+/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: line 2: B1W-T-Removal-1_L4_142A42: command not found
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Skipping './..R1.clean.fastq.gz' which didn't exist, or couldn't be read
+Skipping './..R2.clean.fastq.gz' which didn't exist, or couldn't be read
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_3.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_3
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+./step2.fastp.sh: line 6: /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/code/sample.list: Permission denied
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Skipping './..R1.clean.fastq.gz' which didn't exist, or couldn't be read
+Skipping './..R2.clean.fastq.gz' which didn't exist, or couldn't be read
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_6.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_6
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastqc.log’: File exists
+mkdir: cannot create directory ‘fastqc_res’: File exists
+Analysis complete for B1W-T-Removal-1_L4_142A42.R1.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_142A42.R2.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R1.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R2.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/fastqc_res
+[INFO   ]          fastqc : Found 22 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_rawdata_res_2.html
+[INFO   ]         multiqc : Data        : multiqc_rawdata_res_data_2
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/fastp.log’: File exists
+mkdir: cannot create directory ‘refastqc_res’: File exists
+Started analysis of B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Started analysis of B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_142A42.R1.clean.fastq.gz
+Analysis complete for B1W-T-Removal-1_L4_142A42.R2.clean.fastq.gz
+Started analysis of B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Started analysis of B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 5% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 10% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 15% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 20% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 25% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 30% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 35% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 40% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 45% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 50% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 55% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 60% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 65% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 70% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 75% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 80% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 85% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 90% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Approx 95% complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R1.clean.fastq.gz
+Analysis complete for B1W-T-Sham-1_L4_143A43.R2.clean.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/fastq/refastqc_res
+[INFO   ]          fastqc : Found 28 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_cleandata_res_7.html
+[INFO   ]         multiqc : Data        : multiqc_cleandata_res_data_7
+[INFO   ]         multiqc : MultiQC complete
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/hisat2.log’: File exists
+mkdir: cannot create directory ‘/home/whq/Desktop/yangcf_RNAseq/210527_A00399_0283_AH3WKKDSX2/RNA-seq_analysis/temp/featurecount.log’: File exists
